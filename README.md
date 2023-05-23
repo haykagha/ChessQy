@@ -11,6 +11,7 @@ It's obvious that for n=1, there is a unique solution, and for n=2 and n=3, ther
 Let's see what happens for n>3.
 
 For n = 4, here is the solution:
+
 ![found_n=4](https://github.com/haykagha/ChessQy/assets/50166655/f5bb8bee-e8d1-4d29-9faf-031b0aeb794b)
 
 And the illustration:
@@ -48,6 +49,6 @@ For n = 14, here is the solution:
 For n = 15, there are 62 attemts for finding solution, but failed to find:
 ![not_found_n=15](https://github.com/haykagha/ChessQy/assets/50166655/843742b2-fefe-4d8d-a8cd-42762759f298)
 
-I think, that for n > 13 this algorithm should be improved.
+I think, that for n > 14 this algorithm should be improved.
 
 
