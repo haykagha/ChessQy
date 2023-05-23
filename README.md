@@ -34,14 +34,16 @@ And the illustration:
 For n = 9, here is the solution:
 ![found_n=9](https://github.com/haykagha/ChessQy/assets/50166655/86deafc1-4875-4550-9b5c-68b957d1b039)
 
+
 For n = 13, here is the solution:
+
 ![found_n=13](https://github.com/haykagha/ChessQy/assets/50166655/e152f752-d3d3-454d-9c66-cf04d03cde40)
 
 And the illustration:
 ![illustration_n=13](https://github.com/haykagha/ChessQy/assets/50166655/94f65cb7-ab29-4b40-b19e-9fdad5ec7db3)
 
-For n = 14, there are 117 attemts for finding solution, but failed to find:
-![not_found_n=14](https://github.com/haykagha/ChessQy/assets/50166655/172e8033-e2fb-4455-87b4-a2ff9d5a804a)
+For n = 14, here is the solution:
+![found_n=14](https://github.com/haykagha/ChessQy/assets/50166655/49ef0f35-7c86-438d-9fe2-0193ceba7798)
 
 For n = 15, there are 62 attemts for finding solution, but failed to find:
 ![not_found_n=15](https://github.com/haykagha/ChessQy/assets/50166655/843742b2-fefe-4d8d-a8cd-42762759f298)
