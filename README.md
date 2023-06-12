@@ -1,4 +1,4 @@
-# ChessQy
+# N-Queen Problem
 
 Where is the best place to insert the queen figure?
 
